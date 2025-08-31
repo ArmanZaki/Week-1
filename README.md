@@ -18,10 +18,4 @@ Environmental Management & Pollution Control (Edunet AI Internship)
   - State-wise averages
   - Correlation matrix
 
-## 📂 Repository Structure
-Week-1/
-├── README.md               # Documentation
-├── week1.ipynb     # Notebook with all code
-└── raw_data/               # Folder containing raw files
-    ├── WQuality_River-Data-2022.pdf
-    └── rivers_water.xlsx
+

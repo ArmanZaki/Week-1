@@ -1,6 +1,6 @@
 # 🌍 Week-1: Environmental Management & Pollution Control  
 
-## 📌 Project Theme  
+## 📌 Project Theme    
 This project is part of the **Edunet AI Internship** under the theme *Environmental Management & Pollution Control*.  
 For Week-1, the focus is on **data collection, cleaning, preprocessing, and basic exploratory data analysis (EDA)**.  
 
